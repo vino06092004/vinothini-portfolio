@@ -1,4 +1,4 @@
-# 👩‍💻 Vinodini | Data Analyst & Analytics Engineer Portfolio
+# 👩‍💻 Vinothini | Data Analyst & Analytics Engineer Portfolio
 
 Welcome to my personal portfolio repository! This site showcases my end-to-end projects across data analytics engineering, interactive BI dashboarding, and machine learning pipelines.
 
