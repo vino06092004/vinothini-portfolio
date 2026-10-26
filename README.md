@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This site showcases my end-to-end projects across data analytics engineering, interactive BI dashboarding, and machine learning pipelines.
 
 🌐 **Live Website:** [View Portfolio](https://vino06092004.github.io/Vinodini-portfolio/)  
-📄 **Resume:** [Download Resume](resume.pdf)  
+📄 **Resume:** [Download Resume](vinothiniresumedspattern(1).pdf)  
 📬 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com)
 
 ---
